@@ -1,4 +1,3 @@
-# Hackerank-SQL
 <!-- Output copied to clipboard! -->
 
 <!-- Yay, no errors, warnings, or alerts! -->
@@ -26,9 +25,9 @@
    </td>
    <td><a href="https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true">The PADS</a>
    </td>
-   <td>
+   <td>2022-11-27
    </td>
-   <td>
+   <td>2022-11-27
    </td>
   </tr>
   <tr>
@@ -44,5 +43,4 @@
    </td>
   </tr>
 </table>
-
 
