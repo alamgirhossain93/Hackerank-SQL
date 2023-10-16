@@ -1,0 +1,5 @@
+SELECT LEAST(x, y), GREATEST(x, y)
+FROM functions
+GROUP BY LEAST(x, y), GREATEST(x, y)
+HAVING COUNT(*) > 1
+ORDER BY 1 ;
