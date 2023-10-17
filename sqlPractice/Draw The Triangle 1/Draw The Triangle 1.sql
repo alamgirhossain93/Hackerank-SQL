@@ -1,0 +1,4 @@
+SELECT LPAD('*', 2 * (21 - LEVEL), ' *') pattern
+FROM dual
+CONNECT BY LEVEL <= 20
+ORDER BY LEVEL;
